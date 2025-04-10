@@ -10,3 +10,13 @@ In this project we will explore , analyse and visualise trends in global CO2 emi
 3. visualising insights
 4. drawing insights
 - summarize key takeaways and highlight any surprising patterns
+5. feature engineering 
+- build general purpose features
+6. Tunisia mini case 
+- study tunisia's co2 emission trends over time , the contributing factors
+- how it compares regionally and globally
+- when did tunisia emit the most co2?
+- how did population , gdp and emissions relate?
+- has there been any improvement in efficiency/ is there less co2 per gdp?
+- is tunisia doing better or worse than its neighbors?
+
